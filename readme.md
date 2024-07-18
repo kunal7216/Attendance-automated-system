@@ -105,7 +105,7 @@ The Haar Cascade classifier is an effective method for detecting objects. Haar C
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mohammadnajeeb/jmi_automated_attendace_system
+   git clone https://github.com/kunal7216/Attendance-automated-system
    ```
 2. Install reqiured packages
    ```sh
@@ -144,7 +144,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@md__najeeb](https://twitter.com/md__najeeb) - mnajeeb33@myamu.ac.in
 
-Project Link: [https://github.com/mohammadnajeeb/jmi_automated_attendace_system](https://github.com/mohammadnajeeb/jmi_automated_attendace_system)
+Project Link: [https://github.com/mohammadnajeeb/jmi_automated_attendace_system](https://github.com/kunal7216/Attendance-automated-system)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
