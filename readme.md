@@ -142,7 +142,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@md__najeeb](https://twitter.com/kunal7216) - kunal7216@myamu.ac.in
+Your Name - [@kunal7216](https://twitter.com/kunal7216) - kunal7216@myamu.ac.in
 
 Project Link: [https://github.com/kunal7216/Attendance-automated-system](https://github.com/kunal7216/Attendance-automated-system)
 
